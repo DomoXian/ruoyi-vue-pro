@@ -102,6 +102,11 @@
             <artifactId>yudao-spring-boot-starter-protection</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.zaxxer</groupId>
+            <artifactId>HikariCP</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
